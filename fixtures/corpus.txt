@@ -1,0 +1,5 @@
+The mean is 20.43 and the median is 16.90 (sample variance 347.10, standard deviation 18.63).
+The 1.5×IQR rule identified this outlier (zero-based position): 100 at position 20.
+The fit is increasing (slope 1.659 per observation, SE 0.574, t=2.89; significant by the approximate |t| > 2 rule).
+The trend remains significant after excluding the outliers.
+The fit is increasing (slope 0.665 per observation, SE 0.003, t=219.71; significant by the approximate |t| > 2 rule).

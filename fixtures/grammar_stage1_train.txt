@@ -1,0 +1,64 @@
+the cat runs
+the cat jumps
+the cat waits
+the dog sleeps
+the dog jumps
+the dog waits
+the bird sleeps
+the bird runs
+the bird waits
+the child sleeps
+the child runs
+the child jumps
+the cats sleep
+the cats jump
+the cats wait
+the dogs run
+the dogs jump
+the dogs wait
+the birds sleep
+the birds run
+the birds jump
+the children sleep
+the children run
+the children wait
+the small cat runs
+the quiet dog sleeps
+the young bird waits
+the curious child jumps
+the small cats jump
+the quiet dogs wait
+the young birds run
+the curious children sleep
+the cat sees the dog
+the cat likes the bird
+the cat helps the friend
+the cat follows the child
+the dog sees the bird
+the dog likes the child
+the dog helps the cat
+the dog follows the friend
+the bird sees the friend
+the bird likes the cat
+the bird helps the dog
+the bird follows the child
+the child sees the cat
+the child likes the dog
+the child helps the friend
+the child follows the bird
+the cats see the dogs
+the cats like the birds
+the cats help the friends
+the cats follow the children
+the dogs see the birds
+the dogs like the children
+the dogs help the cats
+the dogs follow the friends
+the birds see the friends
+the birds like the cats
+the birds help the dogs
+the birds follow the children
+the children see the cats
+the children like the dogs
+the children help the friends
+the children follow the birds

@@ -1,0 +1,24 @@
+subject_verb   	 the cat sleeps              	 the cat sleep
+subject_verb   	 the dog runs                	 the dog run
+subject_verb   	 the bird jumps              	 the bird jump
+subject_verb   	 the child waits             	 the child wait
+subject_verb   	 the cats run                	 the cats runs
+subject_verb   	 the dogs sleep              	 the dogs sleeps
+subject_verb   	 the birds wait              	 the birds waits
+subject_verb   	 the children jump           	 the children jumps
+adjective_order	 the curious cat sleeps      	 the cat curious sleeps
+adjective_order	 the small dog runs          	 the dog small runs
+adjective_order	 the quiet bird jumps        	 the bird quiet jumps
+adjective_order	 the young child waits       	 the child young waits
+adjective_order	 the curious cats run        	 the cats curious run
+adjective_order	 the small dogs sleep        	 the dogs small sleep
+adjective_order	 the quiet birds wait        	 the birds quiet wait
+adjective_order	 the young children jump     	 the children young jump
+word_order     	 the cat sees the bird       	 the cat the bird sees
+word_order     	 the dog likes the cat       	 the dog the cat likes
+word_order     	 the bird helps the cat      	 the bird the cat helps
+word_order     	 the child follows the dog   	 the child the dog follows
+word_order     	 the cats see the birds      	 the cats the birds see
+word_order     	 the dogs like the cats      	 the dogs the cats like
+word_order     	 the birds help the dogs     	 the birds the dogs help
+word_order     	 the children follow the cats	 the children the cats follow

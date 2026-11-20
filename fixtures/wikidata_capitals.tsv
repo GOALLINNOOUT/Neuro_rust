@@ -1,0 +1,11 @@
+country	country_qid	aliases	capital	capital_qid	property
+Canada	Q16	ca	Ottawa	Q1930	P36
+Japan	Q17		Tokyo	Q1490	P36
+Spain	Q29		Madrid	Q2807	P36
+United States	Q30	us|usa|united states of america	Washington, D.C.	Q61	P36
+Italy	Q38		Rome	Q220	P36
+France	Q142		Paris	Q90	P36
+United Kingdom	Q145	uk|great britain	London	Q84	P36
+Germany	Q183		Berlin	Q64	P36
+Australia	Q408		Canberra	Q3114	P36
+India	Q668		New Delhi	Q987	P36

@@ -1,0 +1,52 @@
+The mean is 34.14; the median is 33.83; sample variance is 219.83; standard deviation is 14.83.
+IQR (1.5×) result: no outliers were found.
+The 1.5×IQR check found no outliers.
+At the 1.5×IQR cutoff, no observations were flagged as outliers.
+Using the 1.5×IQR fences, no observation was identified as an outlier.
+The fit is increasing (slope 2.014 per observation, SE 0.012, t=169.46; significant by the approximate |t| > 2 rule).
+The average value is 29.10; the median value is 28.91; the sample variance comes to 142.60; the standard deviation comes to 11.94.
+The measured direction is increasing (slope 2.017 per observation; SE 0.015; t=130.64); significant by the approximate |t| > 2 rule.
+Across the sample, readings average 26.12; the middle reading is 26.60; variance across this set is 215.18; sample SD is 14.67.
+The linear fit is decreasing: slope -1.992 per observation, standard error 0.012, and t=-160.63; significant by the approximate |t| > 2 rule.
+The group mean comes to 31.16; the halfway value is 31.21 (the median); the readings have a sample variance of 135.91; the sample standard deviation is 11.66.
+Regression result: decreasing; per-observation slope of -1.969 (SE 0.017, t=-115.69); significant by the approximate |t| > 2 rule.
+An average of 20.11 describes these readings; the midpoint reading is 20.00; measured variance for this set is 0.20; standard deviation is 0.45.
+Across observations, fitted change is increasing (slope 0.003, SE 0.013, t-statistic 0.25); significant by the approximate |t| > 2 rule.
+The mean is 20.18; the median is 20.06; sample variance is 0.22; the standard deviation comes to 0.46.
+The fit is increasing (slope 0.031 per observation, SE 0.017, t=1.79; significant by the approximate |t| > 2 rule).
+The average value is 21.92; the median value is 20.03; the sample variance comes to 49.77; sample SD is 7.05.
+The measured direction is decreasing (slope -0.055 per observation; SE 0.200; t=-0.28); significant by the approximate |t| > 2 rule.
+Across the sample, readings average 22.93; the middle reading is 20.93; variance across this set is 53.48; the sample standard deviation is 7.31.
+The linear fit is increasing: slope 0.282 per observation, standard error 0.284, and t=0.99; significant by the approximate |t| > 2 rule.
+The group mean comes to 21.78; the halfway value is 22.38 (the median); the readings have a sample variance of 25.11; standard deviation is 5.01.
+Regression result: increasing; per-observation slope of 0.490 (SE 0.099, t=4.98); significant by the approximate |t| > 2 rule.
+An average of 20.91 describes these readings; the midpoint reading is 21.16; measured variance for this set is 26.91; the standard deviation comes to 5.19.
+Across observations, fitted change is increasing (slope 0.630, SE 0.144, t-statistic 4.38); significant by the approximate |t| > 2 rule.
+The mean is 29.75; the median is 30.83; sample variance is 27.33; sample SD is 5.23.
+The fit is decreasing (slope -0.530 per observation, SE 0.099, t=-5.38; significant by the approximate |t| > 2 rule).
+The average value is 31.53; the median value is 31.66; the sample variance comes to 17.73; the sample standard deviation is 4.21.
+The measured direction is decreasing (slope -0.367 per observation; SE 0.144; t=-2.55); significant by the approximate |t| > 2 rule.
+Across the sample, readings average 35.31; the middle reading is 36.87; variance across this set is 251.27; standard deviation is 15.85.
+The linear fit is increasing: slope 1.991 per observation, standard error 0.171, and t=11.61; significant by the approximate |t| > 2 rule.
+The group mean comes to 30.66; the halfway value is 29.08 (the median); the readings have a sample variance of 201.56; the standard deviation comes to 14.20.
+Regression result: increasing; per-observation slope of 2.114 (SE 0.268, t=7.89); significant by the approximate |t| > 2 rule.
+An average of 37.07 describes these readings; the midpoint reading is 38.32; measured variance for this set is 284.73; sample SD is 16.87.
+Across observations, fitted change is increasing (slope 1.994, SE 0.236, t-statistic 8.45); significant by the approximate |t| > 2 rule.
+The mean is 32.86; the median is 31.02; sample variance is 264.36; the sample standard deviation is 16.26.
+The fit is increasing (slope 2.285 per observation, SE 0.360, t=6.35; significant by the approximate |t| > 2 rule).
+The average value is 22.64; the median value is 20.00; the sample variance comes to 42.11; standard deviation is 6.49.
+IQR (1.5×) result: 39.09, 39.48, and 40.58 are outliers at zero-based positions 8, 9, and 10, respectively.
+The 1.5×IQR check found three outliers: 39.09 at position 8, 39.48 at position 9, and 40.58 at position 10 (zero-based).
+At the 1.5×IQR cutoff, flagged values are 39.09, 39.48, and 40.58 at zero-based positions 8, 9, and 10, respectively.
+Using the 1.5×IQR fences, the outlying values are 39.09 (position 8), 39.48 (position 9), and 40.58 (position 10); positions are zero-based.
+The measured direction is decreasing (slope -0.146 per observation; SE 0.181; t=-0.80); significant by the approximate |t| > 2 rule.
+Neither the complete dataset nor the dataset without flagged points has a reliable trend under the approximate |t| > 2 rule.
+Across the sample, readings average 23.25; the middle reading is 20.43; variance across this set is 51.08; the standard deviation comes to 7.15.
+The linear fit is decreasing: slope -0.061 per observation, standard error 0.284, and t=-0.21; significant by the approximate |t| > 2 rule.
+The group mean comes to 100.01; the halfway value is 99.99 (the median); the readings have a sample variance of 0.00; sample SD is 0.04.
+IQR (1.5×) result: 100.12 is an outlier at zero-based position 11.
+The 1.5×IQR check found one outlier, 100.12 at position 11 (zero-based).
+At the 1.5×IQR cutoff, 100.12 was flagged at zero-based position 11.
+Using the 1.5×IQR fences, the outlier is 100.12 at position 11 (zero-based).
+Regression result: decreasing; per-observation slope of -0.000 (SE 0.001, t=-0.35); significant by the approximate |t| > 2 rule.
+Across observations, fitted change is decreasing (slope -0.001, SE 0.002, t-statistic -0.71); significant by the approximate |t| > 2 rule.

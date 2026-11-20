@@ -1,0 +1,43 @@
+The mean is 34.14 and the median is 33.83 (sample variance 219.83, standard deviation 14.83).
+No outliers found by the 1.5×IQR rule.
+The fit is increasing (slope 2.014 per observation, SE 0.012, t=169.46; significant by the approximate |t| > 2 rule).
+The mean is 29.10 and the median is 28.91 (sample variance 142.60, standard deviation 11.94).
+The fit is increasing (slope 2.017 per observation, SE 0.015, t=130.64; significant by the approximate |t| > 2 rule).
+The mean is 26.12 and the median is 26.60 (sample variance 215.18, standard deviation 14.67).
+The fit is decreasing (slope -1.992 per observation, SE 0.012, t=-160.63; significant by the approximate |t| > 2 rule).
+The mean is 31.16 and the median is 31.21 (sample variance 135.91, standard deviation 11.66).
+The fit is decreasing (slope -1.969 per observation, SE 0.017, t=-115.69; significant by the approximate |t| > 2 rule).
+The mean is 20.11 and the median is 20.00 (sample variance 0.20, standard deviation 0.45).
+The fit is increasing (slope 0.003 per observation, SE 0.013, t=0.25; significant by the approximate |t| > 2 rule).
+The mean is 20.18 and the median is 20.06 (sample variance 0.22, standard deviation 0.46).
+The fit is increasing (slope 0.031 per observation, SE 0.017, t=1.79; significant by the approximate |t| > 2 rule).
+The mean is 21.92 and the median is 20.03 (sample variance 49.77, standard deviation 7.05).
+The fit is decreasing (slope -0.055 per observation, SE 0.200, t=-0.28; significant by the approximate |t| > 2 rule).
+The mean is 22.93 and the median is 20.93 (sample variance 53.48, standard deviation 7.31).
+The fit is increasing (slope 0.282 per observation, SE 0.284, t=0.99; significant by the approximate |t| > 2 rule).
+The mean is 21.78 and the median is 22.38 (sample variance 25.11, standard deviation 5.01).
+The fit is increasing (slope 0.490 per observation, SE 0.099, t=4.98; significant by the approximate |t| > 2 rule).
+The mean is 20.91 and the median is 21.16 (sample variance 26.91, standard deviation 5.19).
+The fit is increasing (slope 0.630 per observation, SE 0.144, t=4.38; significant by the approximate |t| > 2 rule).
+The mean is 29.75 and the median is 30.83 (sample variance 27.33, standard deviation 5.23).
+The fit is decreasing (slope -0.530 per observation, SE 0.099, t=-5.38; significant by the approximate |t| > 2 rule).
+The mean is 31.53 and the median is 31.66 (sample variance 17.73, standard deviation 4.21).
+The fit is decreasing (slope -0.367 per observation, SE 0.144, t=-2.55; significant by the approximate |t| > 2 rule).
+The mean is 35.31 and the median is 36.87 (sample variance 251.27, standard deviation 15.85).
+The fit is increasing (slope 1.991 per observation, SE 0.171, t=11.61; significant by the approximate |t| > 2 rule).
+The mean is 30.66 and the median is 29.08 (sample variance 201.56, standard deviation 14.20).
+The fit is increasing (slope 2.114 per observation, SE 0.268, t=7.89; significant by the approximate |t| > 2 rule).
+The mean is 37.07 and the median is 38.32 (sample variance 284.73, standard deviation 16.87).
+The fit is increasing (slope 1.994 per observation, SE 0.236, t=8.45; significant by the approximate |t| > 2 rule).
+The mean is 32.86 and the median is 31.02 (sample variance 264.36, standard deviation 16.26).
+The fit is increasing (slope 2.285 per observation, SE 0.360, t=6.35; significant by the approximate |t| > 2 rule).
+The mean is 22.64 and the median is 20.00 (sample variance 42.11, standard deviation 6.49).
+The 1.5×IQR rule identified these outliers (zero-based positions): 39.09 at position 8, 39.48 at position 9, 40.58 at position 10.
+The fit is decreasing (slope -0.146 per observation, SE 0.181, t=-0.80; significant by the approximate |t| > 2 rule).
+Neither the full data nor the data excluding outliers shows a reliable trend under the approximate |t| > 2 rule.
+The mean is 23.25 and the median is 20.43 (sample variance 51.08, standard deviation 7.15).
+The fit is decreasing (slope -0.061 per observation, SE 0.284, t=-0.21; significant by the approximate |t| > 2 rule).
+The mean is 100.01 and the median is 99.99 (sample variance 0.00, standard deviation 0.04).
+The 1.5×IQR rule identified this outlier (zero-based position): 100.12 at position 11.
+The fit is decreasing (slope -0.000 per observation, SE 0.001, t=-0.35; significant by the approximate |t| > 2 rule).
+The fit is decreasing (slope -0.001 per observation, SE 0.002, t=-0.71; significant by the approximate |t| > 2 rule).
